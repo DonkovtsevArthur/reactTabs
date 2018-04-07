@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import Tabs from "./components/Tabs";
 import Tab from "./components/Tab";
 
-import logo from "./logo.svg";
+
 import "./App.css";
 
 const tab = [
@@ -31,7 +31,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+   
           <h1 className="App-title">React 16</h1>
         </header>
         <Tabs click={this.handleClick} active={active}>

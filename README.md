@@ -1,2 +1,2 @@
 TabsReact.
-Demo:
+Demo: https://donkovtsevarthur.github.io/reactTabs
